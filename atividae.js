@@ -14,3 +14,5 @@ if(listaQtdPecas >=10){
 if(nomePeca.length < 3){
     console.log("Nome inválido!");
 }
+
+ajskdjkahdjkasdjkha
